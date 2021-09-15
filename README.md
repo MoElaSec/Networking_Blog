@@ -1,2 +1,2 @@
-# 🌐 Networking Blog
+# Network
 
